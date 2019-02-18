@@ -1,10 +1,4 @@
-"""
-Dialog hierarchical encoder-decoder code.
-The code is inspired from nmt encdec code in groundhog
-but we do not rely on groundhog infrastructure.
-"""
-__docformat__ = 'restructedtext en'
-__authors__ = ("Iulian Vlad Serban")
+
 
 import theano
 import theano.tensor as T
