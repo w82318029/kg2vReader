@@ -1,5 +1,8 @@
+'''This code is implemented based on the framework of HRED model (https://github.com/julianser/hed-dlg-truncated/)
 
+The implementation of knowledge embedding and attentive reader were added.
 
+'''
 import theano
 import theano.tensor as T
 import numpy as np
